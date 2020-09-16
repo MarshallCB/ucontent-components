@@ -16,7 +16,7 @@ cd site && npm i && npm link external-component && npm run dev
 
 /external-component/index.js and /site/internal-component.js contain the same component code, yet only the internal component works as expected.
 
-- -
+---
 
 3. Return to the root directory. Clone ucontent source and link to npm
 ```bash
