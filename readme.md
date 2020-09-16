@@ -9,3 +9,5 @@ cd external-component && npm i && npm link && cd ..
 ```bash
 cd site && npm i && npm link external-component && npm run dev
 ```
+
+![Demo](https://github.com/MarshallCB/ucontent-components/blob/master/demo.png)
