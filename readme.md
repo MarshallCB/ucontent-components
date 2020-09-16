@@ -10,4 +10,8 @@ cd external-component && npm i && npm link && cd ..
 cd site && npm i && npm link external-component && npm run dev
 ```
 
+## Summary
+
+`external-component/index.js` and `site/internal-component.js` contain the same component code, yet only the internal component works as expected.
+
 ![Demo](https://github.com/MarshallCB/ucontent-components/blob/master/demo.png)
