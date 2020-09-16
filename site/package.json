@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "routo": "^0.3.0",
+    "routo": "^0.3.1",
     "serve": "^11.3.2",
     "ucontent": "^2.0.0"
   }
