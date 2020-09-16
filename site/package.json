@@ -1,0 +1,16 @@
+{
+  "name": "ucontent-comp-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "routo -i source -o public -w & serve public"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "routo": "^0.3.0",
+    "serve": "^11.3.2",
+    "ucontent": "^2.0.0"
+  }
+}
